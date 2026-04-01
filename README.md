@@ -1,4 +1,4 @@
-# gcp-bigquery-billing-analysisi-lab
+# gcp-bigquery-billing-analysis-lab
 Hands-on Google Cloud BigQuery lab for importing, querying, and analyzing billing data using SQL.
 # GCP BigQuery Billing Data Analysis Lab
 
